@@ -1,5 +1,5 @@
 # Stock Movement Prediction Using Social Media Data
-
+![image](https://github.com/Manu04Tiwari/Stockmarket-predictionsusing-tweepy/blob/main/image.png)
 ## Description
 This project focuses on developing a machine learning model to predict stock price movements by analyzing data scraped from social media platforms, particularly Twitter. By leveraging Natural Language Processing (NLP) techniques, the model extracts sentiment, keywords, and trends from user-generated content, which are then used to forecast stock price direction or changes. The system aims to provide actionable insights for traders and analysts by capturing market sentiment in real-time.
 
@@ -11,7 +11,7 @@ This project focuses on developing a machine learning model to predict stock pri
 - **Feature Engineering**: Extract features such as tweet volume, sentiment scores, and keyword frequency.
 - **Stock Price Prediction**: Predict stock movements (up, down, or percentage change) using machine learning models.
 - **Visualization**: Provide insights through sentiment heatmaps, keyword trends, and prediction confidence scores.
-
+![image](https://github.com/Manu04Tiwari/Stockmarket-predictionsusing-tweepy/blob/main/eg.output.PNG)
 ---
 
 ## Project Workflow
@@ -66,7 +66,8 @@ This project focuses on developing a machine learning model to predict stock pri
 - **Sources**: Twitter data (scraped using hashtags and ticker symbols).
 - **Preprocessing Steps**: Noise removal, tokenization, and feature extraction.
 - **Size**: Approximately 50,000 tweets for training and testing.
-![Screenshot](sentiment cleaned data.jpg )
+![image](https://github.com/Manu04Tiwari/Stockmarket-predictionsusing-tweepy/blob/main/vedar%20model%20text%20data.jpg)
+
 
 ---
 
