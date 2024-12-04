@@ -66,6 +66,7 @@ This project focuses on developing a machine learning model to predict stock pri
 - **Sources**: Twitter data (scraped using hashtags and ticker symbols).
 - **Preprocessing Steps**: Noise removal, tokenization, and feature extraction.
 - **Size**: Approximately 50,000 tweets for training and testing.
+![Screenshot](sentiment cleaned data.jpg )
 
 ---
 
