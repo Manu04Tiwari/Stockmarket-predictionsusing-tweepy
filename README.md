@@ -1,4 +1,4 @@
-# Stock Movement Prediction Using Social Media Data
+# Stock Movement Prediction Using Tweepy 
 ![image](https://github.com/Manu04Tiwari/Stockmarket-predictionsusing-tweepy/blob/main/image.png)
 ## Description
 This project focuses on developing a machine learning model to predict stock price movements by analyzing data scraped from social media platforms, particularly Twitter. By leveraging Natural Language Processing (NLP) techniques, the model extracts sentiment, keywords, and trends from user-generated content, which are then used to forecast stock price direction or changes. The system aims to provide actionable insights for traders and analysts by capturing market sentiment in real-time.
@@ -51,7 +51,7 @@ This project focuses on developing a machine learning model to predict stock pri
 
  ### Steps 
  ## To clone
-    git clone https://github.com/yourusername/stock-prediction
+    git clone https://github.com/Manu04Tiwari/stock-prediction
     cd stock-prediction
 
 ## Technologies Used
